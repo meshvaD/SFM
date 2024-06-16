@@ -10,4 +10,4 @@ with an input of 40 images, and < 1 min of processing, we get the following poin
 
 ![Screenshot from 2024-06-16 09-19-17](https://github.com/meshvaD/SFM/assets/79111376/e1314ec5-04a7-49c8-a58c-81f32a9250b5)
 
-For now, I'm just cleaning up the code and adding some GPU acceleration!
+For now, I'm just cleaning up the code and adding some more GPU accelerated algos!
